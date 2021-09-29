@@ -25,7 +25,7 @@ Input (same as `test-input`):
 ```
 
 Output:
-
+![Example Output](https://raw.githubusercontent.com/L3afMe/cs-preview/master/test-output.jpg)
 
 ## Download prebuilt jars
 
