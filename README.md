@@ -34,7 +34,7 @@ Output:
 
 ## Usage
 
-    $ java -jar target/cs-preview.jar <input-file>
+    $ java -jar cs-preview.jar <input-file>
 
 ## Build
 
