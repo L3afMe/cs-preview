@@ -25,11 +25,16 @@ Input (same as `test-input`):
 ```
 
 Output:
+
 ![Example Output](https://raw.githubusercontent.com/L3afMe/cs-preview/master/test-output.jpg)
 
 ## Download prebuilt jars
 
-Download from https://github.com/l3afme/cs-preview/releases
+[Download from here](https://github.com/l3afme/cs-preview/releases)
+
+## Usage
+
+    $ java -jar target/cs-preview.jar <input-file>
 
 ## Build
 
@@ -41,7 +46,7 @@ Compile to jar:
 
     $ clojure -T:build ci
 
-Run that jar:
+Run the jar:
 
     $ java -jar target/cs-preview-0.1.0-SNAPSHOT.jar
 
